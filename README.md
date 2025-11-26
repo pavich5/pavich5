@@ -47,9 +47,9 @@ development with React Native, successfully deploying apps on both the Play Stor
 <h4>Backend</h4>
 <p align="left">
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://rust-lang.org/static/images/rust-logo-blk.svg" width="40" height="40"/></a>
   <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
