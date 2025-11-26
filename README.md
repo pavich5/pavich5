@@ -6,12 +6,6 @@ databases including PostgreSQL and MongoDB. Additionally, I have experience in m
 development with React Native, successfully deploying apps on both the Play Store and App Store.
 </h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pavich5" alt="pavich5" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **[Cockpit](https://getcockpit.io/)**
 - 🌱 I’m currently learning **Rust, and payment processors**
 - 👨‍💻 All of my projects: **antonio-pavic.vercel.app**
