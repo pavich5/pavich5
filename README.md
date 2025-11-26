@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Pavic</h1>
-<h3 align="center">
+<h3 align="left">
 Software Engineer skilled in JavaScript, React, and Next.js for frontend development.
 Experienced in backend development with Rust, Node.js, and GraphQL, and proficient in
 databases including PostgreSQL and MongoDB. Additionally, I have experience in mobile
