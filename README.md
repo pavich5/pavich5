@@ -48,7 +48,7 @@ Always learning, always shipping.
   <a href="https://expressjs.com" target="_blank" title="Express.js">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
 </a>
-  <a href="https://www.rust-lang.org" target="_blank" title="Rust"><img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org" target="_blank" title="Rust"><img src="https://static.vecteezy.com/system/resources/previews/060/194/934/non_2x/rust-programming-language-3d-icon-transparent-background-free-png.png" width="40" height="40"/></a>
   <a href="https://graphql.org" target="_blank" title="GraphQL"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank" title="Jest"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
