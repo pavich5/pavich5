@@ -8,7 +8,6 @@ Always learning, always shipping.
 - 🔭 I’m currently working on **[Cockpit](https://getcockpit.io/)**
 - 🌱 I’m currently learning **Rust, and payment processors**
 - 👨‍💻 All of my projects: **antonio-pavic.vercel.app**
-- 💬 Ask me about **React, Next.js, JavaScript, GraphQL, PostgreSQL, Git**
 - 📫 Reach me at **antoniopavic.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
