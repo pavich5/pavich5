@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Pavic</h1>
-<h3 align="left">
+<h3 align="center">
 I'm a software engineer who loves building clean, fast, and user-friendly apps.  
 I work across frontend, backend, and mobile — creating full products from idea to deployment.  
 Always learning, always shipping.
