@@ -6,7 +6,7 @@ I work across frontend, backend, and mobile — creating full products from idea
 Always learning, always shipping.
 </h3>
 
-- 🔭 I’m currently working on **<a href="https://getcockpit.io/">Cockpit</a>**
+- 🔭 I’m currently working on **<a href="https://www.quarzo-life.com/">Quarzo Life</a>**
 - 🌱 I’m currently learning **Rust and payment processors**
 - 👨‍💻 All of my projects: **antonio-pavic.vercel.app**
 - 📫 Reach me at **antoniopavic.dev@gmail.com**
